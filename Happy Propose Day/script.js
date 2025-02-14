@@ -4,7 +4,7 @@ const submitBtn = document.getElementById('submit-btn');
 const resultDiv = document.getElementById('result');
 
 const secretCode = 'Disha'; // Replace with your secret code
-const nextPageUrl = 'main.html'; // Replace with the URL of the new page
+const nextPageUrl = 'index.html'; // Replace with the URL of the new page
 
 form.addEventListener('submit', (e) => {
 	e.preventDefault();
